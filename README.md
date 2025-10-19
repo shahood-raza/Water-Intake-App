@@ -1,16 +1,32 @@
-# water_intake_app
+# 💧 Water Intake App
 
-A new Flutter project.
+A Flutter-based mobile application that helps users track their daily and weekly water intake.  
+The app stores user data in **Firebase Realtime Database** and provides a **visual representation** of water consumption through a bar chart.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧍‍♂️ Track daily water intake  
+- 📊 Visualize weekly water consumption using Bar Charts  
+- ☁️ Store and sync data with **Firebase Realtime Database**  
+- ⚙️ State management using **Provider**  
+- 💎 Clean and minimal UI design  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter**  
+- **Dart**  
+- **Firebase Realtime Database**  
+- **Provider** (for state management)  
+- **Charts Flutter / fl_chart** (for visualization)
+
+---
+
+## ⚙️ Setup Instructions
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/shahood-raza/water-intake-app.git
